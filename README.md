@@ -15,7 +15,10 @@ Udemy course machine learning
 **Simplified path to machine learning**: data -> spreadsheets -> relational DBs -> no SQL DBs -> machine learning
 
 **Terms:**
-[AI]
+[ Artificial Inteligence [ Machine Learning (ML) [ Deep learning ]]]
+[ Artificial Inteligence [ Data Science (DS) [ Machine Learning [ Deep learning ]]]]
+
+DS and ML overlaps each other and both use deepl learning and ML techiques => ML, DS specialist is overchanging term (job position)
 
 **Useful links:**
 
