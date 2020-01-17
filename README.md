@@ -15,11 +15,17 @@ Udemy course machine learning
 > The ML algorithm is taking the input and acts in different ways to try to produce the output. 
 > It can try milions of combinations to be able to produce the result.
 
-**Applications of ML**: stocks prediction, self-driving cars, robots, vision procesing, translation services, language processing, etc.
+**Applications of ML**: 
 
-**Goal of ML**: make the machines act more like humans
+stocks prediction, self-driving cars, robots, vision procesing, translation services, language processing, etc.
 
-**Simplified path to machine learning**: data -> spreadsheets -> relational DBs -> no SQL DBs (Big Data) -> machine learning
+**Goal of ML**: 
+
+make the machines act more like humans
+
+**Simplified path to machine learning**: 
+
+data -> spreadsheets -> relational DBs -> no SQL DBs (Big Data) -> machine learning
 
 **Terms:**
 
