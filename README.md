@@ -11,6 +11,10 @@ Udemy course machine learning
 
 > ML is using an algorithm or computer program to learn about different patterns in data and then take that algorithm (model) and using it to make predictions by feeding it similar data.
 
+> The difference between a normal algorith and a ML model is that instead of just following some actions (algorithm), we are also allowing the machine to learn by giving it input and the desired end result (output). 
+> The ML algorithm is taking the input and acts in different ways to try to produce the output. 
+> It can try milions of combinations to be able to produce the result.
+
 **Applications of ML**: stocks prediction, self-driving cars, robots, vision procesing, translation services, language processing, etc.
 
 **Goal of ML**: make the machines act more like humans
