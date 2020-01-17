@@ -14,7 +14,7 @@ Udemy course machine learning
 
 **Simplified path to machine learning**: data -> spreadsheets -> relational DBs -> no SQL DBs -> machine learning
 
-**Useful links:
+**Useful links:**
 
 https://teachablemachine.withgoogle.com/
 
