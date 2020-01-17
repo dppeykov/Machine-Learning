@@ -15,6 +15,8 @@ Udemy course machine learning
 > The ML algorithm is taking the input and acts in different ways to try to produce the output. 
 > It can try milions of combinations to be able to produce the result.
 
+> ML = Data collection + Data Modeling (Problem definition/Data/Evaluation/Features/Modelling/Experiments) + Deploymnet
+
 **Applications of ML**: 
 
 stocks prediction, self-driving cars, robots, vision procesing, translation services, language processing, etc.
