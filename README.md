@@ -49,8 +49,17 @@ https://teachablemachine.withgoogle.com/
 
 https://ml-playground.com/#
 
-
 ---
+**ENVIRONMENT**:
+
+Computer -> Project folder [ conda (mini conda = conda + python) + tools (matplotlib, jupyter notebook ...)]
+
+conda install 
+
+conda activate
+
+conda deactivate
+
 ---
 ---
 ---
