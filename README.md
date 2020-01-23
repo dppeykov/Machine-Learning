@@ -63,5 +63,7 @@ ONLINE: https://cocalc.com/
 3. Create the environment: **conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter**
 4. Activate the environment: **conda activate /path/to/the/project/env** / deactivate: **conda deactivate**
 5. To install additional tools: **conda install tool's_name** 
+
+To see a list with the environments: conda env list
 ---
 
