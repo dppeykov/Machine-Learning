@@ -53,6 +53,7 @@ https://ml-playground.com/#
 **ENVIRONMENT SETUP**:
 
 Computer -> Project folder [ conda (mini conda = conda + python) + tools (matplotlib, jupyter notebook ...)]
+ONLINE: https://cocalc.com/
 
 1. Install miniconda
 2. Create a project folder + change into it
