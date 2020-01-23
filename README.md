@@ -64,3 +64,4 @@ ONLINE: https://cocalc.com/
 4. Activate the environment: **conda activate /path/to/the/project/env** / deactivate: **conda deactivate**
 5. To install additional tools: **conda install tool's_name** 
 ---
+
