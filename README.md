@@ -68,3 +68,7 @@ ONLINE: https://cocalc.com/
 **PANDAS**
 
 ![Pandas anathomy](https://github.com/dppeykov/Machine-Learning/blob/master/pandas-anatomy-of-a-dataframe.png)
+
+To import data from a URL: 
+
+**var_name = pd.read_csv("https://...link.csv")**
