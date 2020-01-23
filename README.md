@@ -65,4 +65,6 @@ ONLINE: https://cocalc.com/
 5. To install additional tools: **conda install tool's_name** 
 + To see a list with the environments: **conda env list**
 ---
+**PANDAS**
 
+![Pandas anathomy](https://github.com/dppeykov/Machine-Learning/blob/master/pandas-anatomy-of-a-dataframe.png)
