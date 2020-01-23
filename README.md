@@ -49,6 +49,8 @@ https://teachablemachine.withgoogle.com/
 
 https://ml-playground.com/#
 
+https://github.com/mrdbourke/zero-to-mastery-ml
+
 ---
 **ENVIRONMENT SETUP**:
 
