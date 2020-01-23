@@ -50,16 +50,13 @@ https://teachablemachine.withgoogle.com/
 https://ml-playground.com/#
 
 ---
-**ENVIRONMENT**:
+**ENVIRONMENT SETUP**:
 
 Computer -> Project folder [ conda (mini conda = conda + python) + tools (matplotlib, jupyter notebook ...)]
 
-conda install 
-
-conda activate
-
-conda deactivate
-
----
----
+1. Install miniconda
+2. Create a project folder + change into it
+3. Create the environment: **conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter**
+4. Activate the environment: **conda activate /path/to/the/project/env** / deactivate: **conda deactivate**
+5. To install additional tools: **conda install tool's_name** 
 ---
